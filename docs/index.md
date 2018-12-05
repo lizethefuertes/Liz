@@ -11,4 +11,4 @@
 
 ##Liga de youtube
 
-<iframe width="100%" height="500" src="https://www.youtube.com/watch?v=7LuK5sTJsyQ&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7LuK5sTJsyQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
