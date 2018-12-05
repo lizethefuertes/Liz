@@ -37,5 +37,5 @@ cat(sequence)
   <dd>Is something people use sometimes.</dd>
 
   <dt>Markdown in HTML</dt>
-  <dd>Does _not_ work **very** well. Use HTML <em>tags</em>.</dd>
+  <dd>Does not work very well. Use HTML <em>tags</em>.</dd>
 </dl>
